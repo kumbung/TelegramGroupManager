@@ -17,7 +17,7 @@ Alternatively, [find me on telegram](https://t.me/Tamilanda2192004)! (Keep all s
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RamshourieshR/TelegramGroupManager)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jarvis210904/TelegramGroupManager)
 
 ## Starting the bot.
 
